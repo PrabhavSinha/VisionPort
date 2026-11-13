@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+*
+!.gitignore
+!app.py
+!env_check.py
+!gateway.py
+!gateway_trace.py
+!init.py
+!requirements.txt
+!*.png
+!*.jpg
